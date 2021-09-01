@@ -1,12 +1,14 @@
-<h2>Hello, I'm MinJi Kim 👋</h2>
+<h2>Hello, I'm MinJi Kim • Front-End Developer 👋</h2>
 
+I'm 23 years old and I major in Computer Engineering 💻
+<br />
 I like to explore new technologies and develop software solutions 💡
+<br />
+I am always on the lookout for new projects to work on and new people to collaborate with 🤝
 <br />
 I'm on track for learning more about `React` `Next.js` `TypeScript` 📚
 <br />
-You can shoot me an email at <a href="mailto:minzidev@gmail.com">minzidev@gmail.com</a> I'll try to respond as soon as I can 💌
-<br />
-Please have a look at my <a href="https://minzidev.notion.site/2081d7b2927e4953becd4109163ed0b3">Resume</a> for more details about me. I'm open to feedback and suggestions ❤
+I regularly write articles on [Velog](https://velog.io/@mnz) ✍
 
 <hr />
 
@@ -50,3 +52,11 @@ Please have a look at my <a href="https://minzidev.notion.site/2081d7b2927e4953b
  <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>&nbsp 
  <img src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&logo=Figma&logoColor=white"/>&nbsp 
 </p>
+
+<hr />
+
+<h3>Get in Touch</h3>
+
+You can shoot me an email at <a href="mailto:minzidev@gmail.com">minzidev@gmail.com</a> I'll try to respond as soon as I can 💌
+<br />
+Please have a look at my <a href="https://minzidev.notion.site/2081d7b2927e4953becd4109163ed0b3">Resume</a> for more details about me. I'm open to feedback and suggestions ❤
